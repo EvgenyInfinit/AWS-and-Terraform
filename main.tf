@@ -95,8 +95,10 @@ resource "aws_instance" "web-server" {
   }
 user_data = <<EOF
 #!bin/bash
-sudo yum install nginx -y
-sudo systemctl start nginx
+#sudo yum install nginx -y
+sudo amazon-linux-extras install nginx1 -y
+#sudo systemctl start nginx
+sudo service nginx start
 echo "Welcome to Grandpa's Whiskey" | sudo tee /usr/share/nginx/html/index.html
 EOF
 }
