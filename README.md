@@ -2,15 +2,21 @@
 
 Homework1 -> Homework_ec2
 
-![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/localhost.png)
+answer_pic:
 
-![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/security.png)
+localhos - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/localhost.png)
 
-![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/storage.png)
+security - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/security.png)
 
-![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/tags.png)
+storage - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/storage.png)
+
+tags - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework_ec2/tags.png)
 
 Homework2
 
+answer_pic:
 
+curl - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework2/answer_pic/curl.png)
+
+ips - ![alt text](https://github.com/EvgenyInfinit/AWS-and-Terraform/tree/main/Homework2/answer_pic/ips.png)
 
